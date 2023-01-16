@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NJi8DswuhaG8eZ5sZd+PkDiojLOkrN1nkoSpluoP3TA=",
+  "Source": "Password_Encrypt_Decrypt",
+  "BasePath": "_content/Password_Encrypt_Decrypt",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
